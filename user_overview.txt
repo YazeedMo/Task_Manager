@@ -1,0 +1,24 @@
+===== User Overview =====
+Total number of users: 3
+Total number of tasks: 5
+
+>>> admin <<<
+Total number of assigned tasks:  2
+Total tasks as a percentage:     40.0%
+Assigned tasks completed:        50.0%
+Assigned tasks incomplete:       50.0%
+Assigned tasks overdue:          50.0%
+
+>>> Yazeed <<<
+Total number of assigned tasks:  2
+Total tasks as a percentage:     40.0%
+Assigned tasks completed:        50.0%
+Assigned tasks incomplete:       50.0%
+Assigned tasks overdue:          50.0%
+
+>>> Tester <<<
+Total number of assigned tasks:  1
+Total tasks as a percentage:     20.0%
+Assigned tasks completed:        100.0%
+Assigned tasks incomplete:       0.0%
+Assigned tasks overdue:          0.0%

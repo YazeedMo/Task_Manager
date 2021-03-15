@@ -1,0 +1,5 @@
+Assigned to:       admin,Task:              Register Users with taskManager.py.,Date assigned:     10/10/19,Due date:          20/10/19,Task description:  Use taskManager.py to add the usernames and passwords for all team members that will be using this program.,Task completed:    No
+Assigned to:       admin,Task:              Assign initial tasks.,Date assigned:     10/10/19,Due date:          25/10/19,Task description:  Use taskManager.py to assign each team member with appropriate tasks.,Task completed:    Yes
+Assigned to:       Yazeed,Task:              Update TaskManager,Date assigned:     01/03/21,Due date:          05/03/21,Task description:  Debug + add new featuers to TaskManager,Task completed:    Yes
+Assigned to:       Yazeed,Task:              Test TaskManager,Date assigned:     02/02/21,Due date:          05/02/21,Task description:  Make sure TaskManager works properly,Task completed:    No
+Assigned to:       Tester,Task:              Test 1,Date assigned:     03/03/21,Due date:          01/03/21,Task description:  Test,Task completed:    Yes
